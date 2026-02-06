@@ -26,6 +26,3 @@
   <img align="center" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 </div>
 <br><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuhDevJavinha&layout=compact)
-
