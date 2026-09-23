@@ -1,6 +1,11 @@
 ## Hello World! 🌎
 
-### Software Engineer. <br>
+### Software Engineer.
+
+## My job accounts
+
+Vitalis: https://github.com/GustavoRVitalis
+BSPcloud: https://github.com/GustavoBspCloudAI
 
 ### My social media:
 
