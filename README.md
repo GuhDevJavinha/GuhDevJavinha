@@ -25,19 +25,19 @@ BSPcloud: https://github.com/GustavoBspCloudAI
 ---
 ### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,go,python,spring,django" height="40" alt="Backend Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,maven,spring,python,django,kafka" height="40" alt="Backend Stack"/>
 </p>
 
 ---
 ### DB
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb" height="40" alt="Database Stack"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,redis" height="40" alt="Database Stack"/>
 </p>
 
 ---
 ### DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,grafana,prometheus" height="40" alt="DevOps Stack"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,grafana,prometheus,zabbix" height="40" alt="DevOps Stack"/>
 </p>
 
 ---
